@@ -1,8 +1,12 @@
 # Loan_Approval_Prediction
 LOANS are the major requirement of the modern world. By this only, Banks get a major part of the total profit. It is beneficial for students to manage their education and living expenses, and for people to buy any kind of luxury like houses, cars, etc. But when it comes to deciding whether the applicant’s profile is relevant to be granted with loan or not. Banks have to look after many aspects.	We are going to develop one such model that can predict whether a person will get his/her loan approved or not by using some of the background information of the applicant like the applicant’s gender, marital status, income, etc.
+
 Data Collection : Gather relevant data for model training. This may include historical loan data, customer information, credit scores, employment history, and other relevant features. Ensure that the data is representative and diverse.
-Download the dataset from here: Loan Prediction Problem Dataset (kaggle.com)
+
+Download the dataset from here: Loan Prediction Problem Dataset - https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset
+
 This dataset contains information about loan applications, including various attributes related to applicants and whether their loan applications were approved or denied. The dataset is designed for predictive modeling tasks, specifically for predicting whether a loan application will be approved or not based on the provided features.
+
 The Dataset Contains 13 features
 Let's discuss how each feature in the dataset could potentially impact the target feature, which is "Loan_Status" (indicating whether the loan was approved or not).
 Loan_ID: A unique identifier for each loan application. It doesn't contribute to the decision-making process but can be useful for record-keeping.
